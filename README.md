@@ -23,9 +23,9 @@
 
 | Area | Highlights |
 |---|---|
-| 🧊 **Open table formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
-| 🗂️ **Catalogs & federation** | One catalog for every table, so many engines query the same data in place |
-| 🔐 **Fine-grained access** | Row- and column-level rules with short-lived credentials, enforced across engines |
+| 🧊&nbsp;**Open&nbsp;table&nbsp;formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
+| 🗂️&nbsp;**Catalogs&nbsp;&amp;&nbsp;federation** | One catalog for every table, so many engines query the same data in place |
+| 🔐&nbsp;**Fine-grained&nbsp;access** | Row- and column-level rules with short-lived credentials, enforced across engines |
 
 ### Apache Polaris contributions
 
