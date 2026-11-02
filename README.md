@@ -23,9 +23,9 @@
 
 | Area | Highlights |
 |---|---|
-| 🧊 **Open table formats** | Exposed 200K+ tables as open Apache Iceberg with zero data copy; up to ~85× faster large-table scans |
-| 🗂️ **Catalogs & federation** | Made 700+ PB queryable in place across Athena, Redshift, Trino, and Spark |
-| 🔐 **Fine-grained access** | Scoped, short-lived credentials and row/column-level rules across engines |
+| 🧊 **Open table formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
+| 🗂️ **Catalogs & federation** | One catalog for every table, so many engines query the same data in place |
+| 🔐 **Fine-grained access** | Row- and column-level rules with short-lived credentials, enforced across engines |
 
 ### Apache Polaris contributions
 
