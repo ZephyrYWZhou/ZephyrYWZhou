@@ -1,0 +1,67 @@
+<div align="center">
+
+<a href="https://zephyrywzhou.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3200&pause=900&color=2F5BEA&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Yuewei+Zhou+%F0%9F%91%8B;Data+Infrastructure+Engineer+%40+Amazon;Core+Contributor%2C+Apache+Polaris;Catalogs+%C2%B7+Apache+Iceberg+%C2%B7+Access+Control" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://zephyrywzhou.github.io"><img src="https://img.shields.io/badge/Website-zephyrywzhou.github.io-14213d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://zephyrywzhou.github.io/polaris/"><img src="https://img.shields.io/badge/Polaris_Work-View-0b7a71?style=for-the-badge&logo=apache&logoColor=white" alt="My Polaris work"></a>
+  <a href="https://www.linkedin.com/in/zephyr-zhou"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+</div>
+
+### About me
+
+- 🏗️ I build **data infrastructure** at Amazon: catalogs, open table formats, and access control for one of the largest governed data lakes.
+- 🧊 **Core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg.
+- 🗄️ Initiated and building its **AWS-native, serverless DynamoDB backend** for catalog metadata.
+- 📍 Seattle, WA · 🎓 Rice University, CS & Math
+
+### What I work on
+
+| Area | Highlights |
+|---|---|
+| 🧊 **Open table formats** | Exposed 200K+ tables as open Apache Iceberg with zero data copy; up to ~85× faster large-table scans |
+| 🗂️ **Catalogs & federation** | Made 700+ PB queryable in place across Athena, Redshift, Trino, and Spark |
+| 🔐 **Fine-grained access** | Scoped, short-lived credentials and row/column-level rules across engines |
+
+### Apache Polaris contributions
+
+| Work | Status |
+|---|---|
+| 🗄️ DynamoDB persistence backend: [design doc](https://docs.google.com/document/d/1vc7FCvznlfdBoHe0DJQo1vRzcd0AXHFX4cGrFhuiF9Y/edit) · [#5622](https://github.com/apache/polaris/pull/5622) · [#5707](https://github.com/apache/polaris/pull/5707) · [#5830](https://github.com/apache/polaris/pull/5830) · [#5892](https://github.com/apache/polaris/pull/5892) | 🚧 In progress |
+| 🔐 Authorization refactor across 3 authorizers: [#5486](https://github.com/apache/polaris/pull/5486) · [#5493](https://github.com/apache/polaris/pull/5493) · [#5507](https://github.com/apache/polaris/pull/5507) | ✅ Merged |
+| 📊 Structured logging with `StructuredLogKeys`: [#5093](https://github.com/apache/polaris/pull/5093) · [#5224](https://github.com/apache/polaris/pull/5224) | ✅ Shipped in 1.7.0 |
+
+👉 [See all my Polaris PRs](https://github.com/apache/polaris/pulls?q=is%3Apr+author%3AZephyrYWZhou)
+
+### Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Iceberg-1F6FEB?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg">
+  <img src="https://img.shields.io/badge/Apache_Polaris-0b7a71?style=flat-square&logo=apache&logoColor=white" alt="Apache Polaris">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" alt="Trino">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+### GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZephyrYWZhou&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2F5BEA&icon_color=2F5BEA" alt="GitHub stats">
+  <img height="165" src="https://streak-stats.demolab.com?user=ZephyrYWZhou&hide_border=true&theme=transparent&ring=2F5BEA&fire=2F5BEA&currStreakLabel=2F5BEA" alt="GitHub streak">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZephyrYWZhou/ZephyrYWZhou/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZephyrYWZhou/ZephyrYWZhou/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ZephyrYWZhou/ZephyrYWZhou/output/github-contribution-grid-snake.svg">
+</picture>
