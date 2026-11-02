@@ -32,8 +32,8 @@
 | Work | Status |
 |---|---|
 | DynamoDB persistence backend: [design doc](https://docs.google.com/document/d/1vc7FCvznlfdBoHe0DJQo1vRzcd0AXHFX4cGrFhuiF9Y/edit) · [#5622](https://github.com/apache/polaris/pull/5622) · [#5707](https://github.com/apache/polaris/pull/5707) · [#5830](https://github.com/apache/polaris/pull/5830) · [#5892](https://github.com/apache/polaris/pull/5892) | 🚧 In progress |
-| Authorization refactor across 3 authorizers: [#5486](https://github.com/apache/polaris/pull/5486) · [#5493](https://github.com/apache/polaris/pull/5493) · [#5507](https://github.com/apache/polaris/pull/5507) | ✅ Merged |
-| Structured logging with `StructuredLogKeys`: [#5093](https://github.com/apache/polaris/pull/5093) · [#5224](https://github.com/apache/polaris/pull/5224) | ✅ Shipped in 1.7.0 |
+| Authorization refactor across 3 authorizers: [#5486](https://github.com/apache/polaris/pull/5486) · [#5493](https://github.com/apache/polaris/pull/5493) · [#5507](https://github.com/apache/polaris/pull/5507) | ✅ Shipped in [1.8.0](https://github.com/apache/polaris/releases/tag/apache-polaris-1.8.0) |
+| Structured logging with `StructuredLogKeys`: [#5093](https://github.com/apache/polaris/pull/5093) · [#5224](https://github.com/apache/polaris/pull/5224) | ✅ Shipped in [1.8.0](https://github.com/apache/polaris/releases/tag/apache-polaris-1.8.0) |
 
 [See all my Polaris PRs →](https://github.com/apache/polaris/pulls?q=is%3Apr+author%3AZephyrYWZhou)
 
