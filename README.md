@@ -14,28 +14,28 @@
 
 ### About me
 
-- 🏗️ I build **data infrastructure** at Amazon: catalogs, open table formats, and access control for one of the largest governed data lakes.
-- 🧊 **Core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg.
-- 🗄️ Initiated and building its **AWS-native, serverless DynamoDB backend** for catalog metadata.
-- 📍 Seattle, WA · 🎓 Rice University, CS & Math
+I build **data infrastructure** at Amazon: catalogs, open table formats, and access control for one of the largest governed data lakes.
+I'm also a **core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg, where I initiated and am building its **AWS-native, serverless DynamoDB backend**.
+
+Seattle, WA · Rice University, CS & Math
 
 ### What I work on
 
 | Area | Highlights |
 |---|---|
-| 🧊 **Open table formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
-| 🗂️ **Catalogs & federation** | One catalog for every table, so many engines query the same data in place |
-| 🔐 **Fine-grained access** | Row- and column-level rules with short-lived credentials, enforced across engines |
+| **Open table formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
+| **Catalogs & federation** | One catalog for every table, so many engines query the same data in place |
+| **Fine-grained access** | Row- and column-level rules with short-lived credentials, enforced across engines |
 
 ### Apache Polaris contributions
 
 | Work | Status |
 |---|---|
-| 🗄️ DynamoDB persistence backend: [design doc](https://docs.google.com/document/d/1vc7FCvznlfdBoHe0DJQo1vRzcd0AXHFX4cGrFhuiF9Y/edit) · [#5622](https://github.com/apache/polaris/pull/5622) · [#5707](https://github.com/apache/polaris/pull/5707) · [#5830](https://github.com/apache/polaris/pull/5830) · [#5892](https://github.com/apache/polaris/pull/5892) | 🚧 In progress |
-| 🔐 Authorization refactor across 3 authorizers: [#5486](https://github.com/apache/polaris/pull/5486) · [#5493](https://github.com/apache/polaris/pull/5493) · [#5507](https://github.com/apache/polaris/pull/5507) | ✅ Merged |
-| 📊 Structured logging with `StructuredLogKeys`: [#5093](https://github.com/apache/polaris/pull/5093) · [#5224](https://github.com/apache/polaris/pull/5224) | ✅ Shipped in 1.7.0 |
+| DynamoDB persistence backend: [design doc](https://docs.google.com/document/d/1vc7FCvznlfdBoHe0DJQo1vRzcd0AXHFX4cGrFhuiF9Y/edit) · [#5622](https://github.com/apache/polaris/pull/5622) · [#5707](https://github.com/apache/polaris/pull/5707) · [#5830](https://github.com/apache/polaris/pull/5830) · [#5892](https://github.com/apache/polaris/pull/5892) | 🚧 In progress |
+| Authorization refactor across 3 authorizers: [#5486](https://github.com/apache/polaris/pull/5486) · [#5493](https://github.com/apache/polaris/pull/5493) · [#5507](https://github.com/apache/polaris/pull/5507) | ✅ Merged |
+| Structured logging with `StructuredLogKeys`: [#5093](https://github.com/apache/polaris/pull/5093) · [#5224](https://github.com/apache/polaris/pull/5224) | ✅ Shipped in 1.7.0 |
 
-👉 [See all my Polaris PRs](https://github.com/apache/polaris/pulls?q=is%3Apr+author%3AZephyrYWZhou)
+[See all my Polaris PRs →](https://github.com/apache/polaris/pulls?q=is%3Apr+author%3AZephyrYWZhou)
 
 ### Tech stack
 
