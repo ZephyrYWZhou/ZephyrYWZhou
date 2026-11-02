@@ -16,7 +16,7 @@
 
 - 🏗️ Engineering **data infrastructure** for Andes, Amazon's largest governed data lake, used across the whole of Amazon.
 - 🤝 **Core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg.
-- ⚡ Initiated and building its **AWS-native, serverless DynamoDB backend** for catalog metadata.
+- ⚡ Initiated and building Polaris' **AWS-native, serverless DynamoDB backend** for catalog metadata.
 - 📍 Seattle, WA · 🎓 Rice University, CS & Math
 
 ### Passion & experience
