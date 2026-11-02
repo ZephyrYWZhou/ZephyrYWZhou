@@ -14,18 +14,18 @@
 
 ### About me
 
-I build **data infrastructure** at Amazon: catalogs, open table formats, and access control for one of the largest governed data lakes.
-I'm also a **core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg, where I initiated and am building its **AWS-native, serverless DynamoDB backend**.
+- 🏗️ I build **data infrastructure** at Amazon for one of the largest governed data lakes.
+- 🤝 **Core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg.
+- ⚡ Initiated and building its **AWS-native, serverless DynamoDB backend** for catalog metadata.
+- 📍 Seattle, WA · 🎓 Rice University, CS & Math
 
-Seattle, WA · Rice University, CS & Math
-
-### What I work on
+### Passion & experience
 
 | Area | Highlights |
 |---|---|
-| **Open table formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
-| **Catalogs & federation** | One catalog for every table, so many engines query the same data in place |
-| **Fine-grained access** | Row- and column-level rules with short-lived credentials, enforced across engines |
+| 🧊 **Open table formats** | Bringing large data lakes onto open Apache Iceberg, with no data copy and faster queries |
+| 🗂️ **Catalogs & federation** | One catalog for every table, so many engines query the same data in place |
+| 🔐 **Fine-grained access** | Row- and column-level rules with short-lived credentials, enforced across engines |
 
 ### Apache Polaris contributions
 
