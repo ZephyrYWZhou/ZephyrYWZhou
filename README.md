@@ -56,7 +56,10 @@
 ### GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZephyrYWZhou&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2F5BEA&icon_color=2F5BEA" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZephyrYWZhou&theme=default" alt="Contribution overview">
+</p>
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZephyrYWZhou&theme=default" alt="GitHub stats">
   <img height="165" src="https://streak-stats.demolab.com?user=ZephyrYWZhou&hide_border=true&theme=transparent&ring=2F5BEA&fire=2F5BEA&currStreakLabel=2F5BEA" alt="GitHub streak">
 </p>
 
