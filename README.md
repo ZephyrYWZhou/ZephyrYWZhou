@@ -16,7 +16,7 @@
 
 - 🏗️ Engineering **data infrastructure** for Andes, Amazon's largest governed data lake, used across the whole of Amazon.
 - 🤝 **Core contributor to [Apache Polaris](https://github.com/apache/polaris)**, the open catalog for Apache Iceberg.
-- ⚡ Initiated and building Polaris' **AWS-native, serverless DynamoDB backend** for catalog metadata.
+- ⚡ Initiated Polaris' **AWS-native, serverless DynamoDB backend** for catalog metadata, first shipped in 1.9.0.
 - 📍 Seattle, WA · 🎓 Rice University, CS & Math
 
 ### Passion & experience
@@ -31,7 +31,8 @@
 
 | Work | Status |
 |---|---|
-| DynamoDB persistence backend: [design doc](https://docs.google.com/document/d/1vc7FCvznlfdBoHe0DJQo1vRzcd0AXHFX4cGrFhuiF9Y/edit) · [#5622](https://github.com/apache/polaris/pull/5622) · [#5707](https://github.com/apache/polaris/pull/5707) · [#5830](https://github.com/apache/polaris/pull/5830) · [#5892](https://github.com/apache/polaris/pull/5892) | 🚧 In progress |
+| DynamoDB persistence backend: [design doc](https://docs.google.com/document/d/1vc7FCvznlfdBoHe0DJQo1vRzcd0AXHFX4cGrFhuiF9Y/edit) · [#5622](https://github.com/apache/polaris/pull/5622) · [#5707](https://github.com/apache/polaris/pull/5707) · [#5830](https://github.com/apache/polaris/pull/5830) · [#5892](https://github.com/apache/polaris/pull/5892) · [#5986](https://github.com/apache/polaris/pull/5986) | ✅ Shipped in [1.9.0](https://github.com/apache/polaris/releases/tag/apache-polaris-1.9.0) |
+| DynamoDB listing &amp; paging: [#6006](https://github.com/apache/polaris/pull/6006) (merged) · [#6016](https://github.com/apache/polaris/pull/6016) | 🚧 In review, next release |
 | Authorization refactor across 3 authorizers: [#5486](https://github.com/apache/polaris/pull/5486) · [#5493](https://github.com/apache/polaris/pull/5493) · [#5507](https://github.com/apache/polaris/pull/5507) | ✅ Shipped in [1.8.0](https://github.com/apache/polaris/releases/tag/apache-polaris-1.8.0) |
 | Structured logging with `StructuredLogKeys`: [#5093](https://github.com/apache/polaris/pull/5093) · [#5224](https://github.com/apache/polaris/pull/5224) | ✅ Shipped in [1.8.0](https://github.com/apache/polaris/releases/tag/apache-polaris-1.8.0) |
 
